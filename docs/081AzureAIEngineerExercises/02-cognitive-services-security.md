@@ -1,10 +1,9 @@
 ---
 layout: default
 title: 'Manage Azure AI Services Security'
-nav_order: 8.1.4
+#nav_order: 8.1.4
 parent: 'Azure AI Engineer Exercises'
 has_children: false
-module: 'Module 2 - Developing AI Apps with Azure AI Services'
 ---
 
 
