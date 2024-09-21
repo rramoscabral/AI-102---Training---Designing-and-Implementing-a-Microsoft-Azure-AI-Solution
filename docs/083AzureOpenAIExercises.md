@@ -9,17 +9,6 @@ has_children: false
 # Azure AI Services Exercises
 {: .no_toc }
 
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
-<br/>
-
----
-
 <br/>
 
 **Develop AI solutions with Azure OpenAI**
