@@ -1,10 +1,7 @@
 ---
 layout: default
 title: 'Lab Environment Setup'
-nav_order: 2
 parent: 'Azure AI Engineer Exercises'
-has_children: false
-module: 'Setup'
 ---
 
 
