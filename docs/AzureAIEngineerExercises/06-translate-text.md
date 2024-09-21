@@ -1,8 +1,9 @@
 ---
 layout: default
 title: 'Translate Text'
-nav_order: 8.1.8
 parent: 'Azure AI Engineer Exercises'
+grand_parent: 'Hands-on Labs'
+nav_order: 8
 has_children: false
 module: 'Module 3 - Getting Started with Natural Language Processing'
 ---

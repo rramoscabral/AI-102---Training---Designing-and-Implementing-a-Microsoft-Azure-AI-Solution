@@ -2,6 +2,9 @@
 layout: default
 title: 'Lab Environment Setup'
 parent: 'Azure AI Engineer Exercises'
+grand_parent: 'Hands-on Labs'
+nav_order: 1
+has_children: false
 ---
 
 

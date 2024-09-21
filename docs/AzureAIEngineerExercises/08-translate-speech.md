@@ -1,8 +1,9 @@
 ---
 layout: default
 title: 'Translate Speech'
-nav_order: 8.1.10
 parent: 'Azure AI Engineer Exercises'
+grand_parent: 'Hands-on Labs'
+nav_order: 10
 has_children: false
 module: 'Module 8 - Translate speech with Azure AI Speech'
 ---

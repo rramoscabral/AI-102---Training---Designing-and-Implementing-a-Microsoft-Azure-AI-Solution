@@ -1,8 +1,9 @@
 ---
 layout: default
 title: 'Read Text in Images'
-nav_order: 8.1.21
 parent: 'Azure AI Engineer Exercises'
+grand_parent: 'Hands-on Labs'
+nav_order: 21
 has_children: false
 module: 'Module 11 - Reading Text in Images and Documents'
 ---

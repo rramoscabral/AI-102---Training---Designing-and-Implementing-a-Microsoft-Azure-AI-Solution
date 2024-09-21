@@ -1,8 +1,9 @@
 ---
 layout: default
 title: 'Create a language understanding model with the Azure AI Language service'
-nav_order: 8.1.11
 parent: 'Azure AI Engineer Exercises'
+grand_parent: 'Hands-on Labs'
+nav_order: 11
 has_children: false
 module: 'Module 5 - Create language understanding solutions'
 ---

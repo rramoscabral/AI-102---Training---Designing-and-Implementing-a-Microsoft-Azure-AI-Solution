@@ -1,8 +1,9 @@
 ---
 layout: default
 title: 'Create an Azure AI Search solution'
-nav_order: 8.1.23
 parent: 'Azure AI Engineer Exercises'
+grand_parent: 'Hands-on Labs'
+nav_order: 23
 has_children: false
 module: 'Module 12 - Creating a Knowledge Mining Solution'
 ---

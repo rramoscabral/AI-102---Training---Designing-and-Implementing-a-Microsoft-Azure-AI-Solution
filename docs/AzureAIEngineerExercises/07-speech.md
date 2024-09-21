@@ -1,8 +1,9 @@
 ---
 layout: default
 title: 'Recognize and Synthesize Speech'
-nav_order: 8.1.9
 parent: 'Azure AI Engineer Exercises'
+grand_parent: 'Hands-on Labs'
+nav_order: 9
 has_children: false
 module: 'Module 4 - Create speech-enabled apps with Azure AI services'
 ---

@@ -1,8 +1,9 @@
 ---
 layout: default
 title: 'Use an Azure AI Services Container'
-nav_order: 8.1.6
 parent: 'Azure AI Engineer Exercises'
+grand_parent: 'Hands-on Labs'
+nav_order: 6
 has_children: false
 module: 'Module 2 - Developing AI Apps with Azure AI Services'
 ---

@@ -1,8 +1,9 @@
 ---
 layout: default
 title: 'Monitor Azure AI Services'
-nav_order: 8.1.5
 parent: 'Azure AI Engineer Exercises'
+grand_parent: 'Hands-on Labs'
+nav_order: 5
 has_children: false
 module: 'Module 2 - Developing AI Apps with Azure AI Services'
 ---

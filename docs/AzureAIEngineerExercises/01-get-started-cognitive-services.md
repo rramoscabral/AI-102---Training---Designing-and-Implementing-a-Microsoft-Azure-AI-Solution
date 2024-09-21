@@ -4,8 +4,8 @@ title: 'Get Started with Azure AI Services'
 parent: 'Azure AI Engineer Exercises'
 grand_parent: 'Hands-on Labs'
 nav_order: 3
-# has_children: false
-# module: 'Module 2 - Developing AI Apps with Azure AI Services'
+has_children: false
+module: 'Module 2 - Developing AI Apps with Azure AI Services'
 ---
 
 

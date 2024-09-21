@@ -1,8 +1,9 @@
 ---
 layout: default
 title: 'Detect Objects in Images with Custom Vision'
-nav_order: 8.1.19
 parent: 'Azure AI Engineer Exercises'
+grand_parent: 'Hands-on Labs'
+nav_order: 19
 has_children: false
 module: 'Module 9 - Developing Custom Vision Solutions'
 ---

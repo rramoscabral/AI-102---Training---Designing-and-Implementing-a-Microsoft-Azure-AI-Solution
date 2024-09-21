@@ -1,8 +1,9 @@
 ---
 layout: default
 title: 'Create a Conversational Language Understanding Client Application'
-nav_order: 8.1.12
 parent: 'Azure AI Engineer Exercises'
+grand_parent: 'Hands-on Labs'
+nav_order: 12
 has_children: false
 module: 'Module 5 - Creating Language Understanding Solutions'
 ---

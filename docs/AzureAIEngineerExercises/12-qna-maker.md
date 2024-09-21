@@ -1,8 +1,9 @@
 ---
 layout: default
 title: 'Create a Question Answering Solution'
-nav_order: 8.1.13
 parent: 'Azure AI Engineer Exercises'
+grand_parent: 'Hands-on Labs'
+nav_order: 13
 has_children: false
 module: 'Module 6 - Create question answering solutions with Azure AI Language'
 ---

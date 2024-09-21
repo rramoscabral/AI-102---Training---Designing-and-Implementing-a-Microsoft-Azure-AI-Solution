@@ -1,8 +1,9 @@
 ---
 layout: default
 title: 'Analyze Images with Azure AI Vision'
-nav_order: 8.1.16
 parent: 'Azure AI Engineer Exercises'
+grand_parent: 'Hands-on Labs'
+nav_order: 16
 has_children: false
 module: 'Module 8 - Getting Started with Azure AI Vision'
 ---

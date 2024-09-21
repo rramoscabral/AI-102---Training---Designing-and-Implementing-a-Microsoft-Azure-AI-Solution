@@ -1,8 +1,9 @@
 ---
 layout: default
 title: 'Extract Data from Forms'
-nav_order: 8.1.22
 parent: 'Azure AI Engineer Exercises'
+grand_parent: 'Hands-on Labs'
+nav_order: 22
 has_children: false
 module: 'Module 11 - Reading Text in Images and Documents'
 ---

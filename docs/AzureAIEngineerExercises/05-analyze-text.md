@@ -1,8 +1,9 @@
 ---
 layout: default
 title: 'Analyze Text'
-nav_order: 8.1.7
 parent: 'Azure AI Engineer Exercises'
+grand_parent: 'Hands-on Labs'
+nav_order: 7
 has_children: false
 module: 'Module 3 - Getting Started with Natural Language Processing'
 ---

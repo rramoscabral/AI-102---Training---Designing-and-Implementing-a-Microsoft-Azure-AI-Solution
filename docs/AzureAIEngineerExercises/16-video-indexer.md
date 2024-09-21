@@ -1,8 +1,9 @@
 ---
 layout: default
 title: 'Analyze Video with Video Analyzer'
-nav_order: 8.1.17
 parent: 'Azure AI Engineer Exercises'
+grand_parent: 'Hands-on Labs'
+nav_order: 17
 has_children: false
 module: 'Module 8 - Getting Started with Azure AI Vision'
 ---
