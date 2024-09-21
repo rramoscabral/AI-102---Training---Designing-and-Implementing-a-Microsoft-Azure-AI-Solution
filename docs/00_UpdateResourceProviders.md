@@ -2,6 +2,7 @@
 layout: default
 title: 'Lab Environment Setup'
 parent: 'Azure AI Engineer Exercises'
+ancestor: 'Hands-on Labs'
 ---
 
 
