@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 'Azure AI Engineer Exercises'
-nav_order: 8.1
+#nav_order: 8.1
 parent: 'Hands-on Labs'
 has_children: true
 ---
@@ -32,9 +32,9 @@ The oficial **GitHub AI-102 AI Engineer repo** has been archived by the owner on
 
 
 The lab files for course AI-102 (and other AI-related courses) are distributed across multiple repo's:
-- https://github.com/MicrosoftLearning/mslearn-ai-services
-- https://github.com/MicrosoftLearning/mslearn-ai-vision
-- https://github.com/MicrosoftLearning/mslearn-ai-language
-- https://github.com/MicrosoftLearning/mslearn-ai-document-intelligence
-- https://github.com/MicrosoftLearning/mslearn-knowledge-mining
-- https://github.com/MicrosoftLearning/mslearn-openai
+- [Lab files for Azure AI Services modules](https://github.com/MicrosoftLearning/mslearn-ai-services)
+- [Lab files for Azure AI Vision modules](https://github.com/MicrosoftLearning/mslearn-ai-vision)
+- [Lab files for Azure AI Language modules](https://github.com/MicrosoftLearning/mslearn-ai-language)
+- [Lab files for Azure AI Document Intelligence modules](https://github.com/MicrosoftLearning/mslearn-ai-document-intelligence)
+- [Lab files for Azure AI Knowledge Mining modules](https://github.com/MicrosoftLearning/mslearn-knowledge-mining)
+- [Develop AI solutions with Azure OpenAI](https://github.com/MicrosoftLearning/mslearn-openai)

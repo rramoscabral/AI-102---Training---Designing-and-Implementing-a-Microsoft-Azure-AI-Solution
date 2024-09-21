@@ -22,7 +22,7 @@ has_children: false
 
 <br/>
 
-
+**Lab files for Azure AI Services modules**
 
 The following exercises are designed to support the modules on Microsoft Learn.
 
