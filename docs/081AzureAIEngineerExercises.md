@@ -1,8 +1,9 @@
 ---
 layout: default
 title: 'Azure AI Engineer Exercises'
-nav_order: 1
 parent: 'Hands-on Labs'
+nav_order: 1
+has_children: true
 ---
 
 # Azure AI Engineer Exercises'

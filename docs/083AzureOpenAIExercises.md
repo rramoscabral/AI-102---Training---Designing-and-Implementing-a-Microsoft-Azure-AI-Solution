@@ -1,8 +1,9 @@
 ---
 layout: default
 title: 'Azure OpenAI Exercises'
-nav_order: 3
 parent: 'Hands-on Labs'
+nav_order: 3
+has_children: false
 ---
 
 # Azure AI Services Exercises
