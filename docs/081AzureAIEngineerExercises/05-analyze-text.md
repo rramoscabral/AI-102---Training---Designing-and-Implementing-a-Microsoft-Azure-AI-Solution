@@ -2,7 +2,7 @@
 layout: default
 title: 'Analyze Text'
 nav_order: 8.1.7
-parent: 'Enable Resource Providers'
+parent: 'Azure AI Engineer Exercises'
 has_children: false
 module: 'Module 3 - Getting Started with Natural Language Processing'
 ---

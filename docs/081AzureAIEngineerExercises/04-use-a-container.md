@@ -2,7 +2,7 @@
 layout: default
 title: 'Use an Azure AI Services Container'
 nav_order: 8.1.6
-parent: 'Enable Resource Providers'
+parent: 'Azure AI Engineer Exercises'
 has_children: false
 module: 'Module 2 - Developing AI Apps with Azure AI Services'
 ---

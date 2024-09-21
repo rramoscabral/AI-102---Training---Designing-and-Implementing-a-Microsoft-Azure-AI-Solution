@@ -2,7 +2,7 @@
 layout: default
 title: 'Create a Bot with Bot Framework Composer'
 nav_order: 8.1.15
-parent: 'Enable Resource Providers'
+parent: 'Azure AI Engineer Exercises'
 has_children: false
 module: 'Module 7 - Conversational AI and the Azure Bot Service'
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: 'Lab Environment Setup'
 nav_order: 8.1.2
-parent: 'Enable Resource Providers'
+parent: 'Azure AI Engineer Exercises'
 has_children: false
 module: 'Setup'
 ---

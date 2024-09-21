@@ -2,7 +2,7 @@
 layout: default
 title: 'Create a language understanding model with the Azure AI Language service'
 nav_order: 8.1.11
-parent: 'Enable Resource Providers'
+parent: 'Azure AI Engineer Exercises'
 has_children: false
 module: 'Module 5 - Create language understanding solutions'
 ---

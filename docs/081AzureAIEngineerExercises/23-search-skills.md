@@ -2,7 +2,7 @@
 layout: default
 title: 'Create a Custom Skill for Azure AI Search'
 nav_order: 8.1.24
-parent: 'Enable Resource Providers'
+parent: 'Azure AI Engineer Exercises'
 has_children: false
 module: 'Module 12 - Creating a Knowledge Mining Solution'
 ---

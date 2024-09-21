@@ -2,7 +2,7 @@
 layout: default
 title: 'Analyze Video with Video Analyzer'
 nav_order: 8.1.17
-parent: 'Enable Resource Providers'
+parent: 'Azure AI Engineer Exercises'
 has_children: false
 module: 'Module 8 - Getting Started with Azure AI Vision'
 ---

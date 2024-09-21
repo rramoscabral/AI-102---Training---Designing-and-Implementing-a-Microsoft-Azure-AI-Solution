@@ -2,7 +2,7 @@
 layout: default
 title: 'Classify Images with Azure AI Custom Vision'
 nav_order: 8.1.18
-parent: 'Enable Resource Providers'
+parent: 'Azure AI Engineer Exercises'
 has_children: false
 module: 'Module 9 - Developing Custom Vision Solutions'
 ---

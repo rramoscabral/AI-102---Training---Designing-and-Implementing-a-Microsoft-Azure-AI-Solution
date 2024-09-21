@@ -2,7 +2,7 @@
 layout: default
 title: 'Recognize and Synthesize Speech'
 nav_order: 8.1.9
-parent: 'Enable Resource Providers'
+parent: 'Azure AI Engineer Exercises'
 has_children: false
 module: 'Module 4 - Create speech-enabled apps with Azure AI services'
 ---

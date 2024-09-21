@@ -2,7 +2,7 @@
 layout: default
 title: 'Extract Data from Forms'
 nav_order: 8.1.22
-parent: 'Enable Resource Providers'
+parent: 'Azure AI Engineer Exercises'
 has_children: false
 module: 'Module 11 - Reading Text in Images and Documents'
 ---

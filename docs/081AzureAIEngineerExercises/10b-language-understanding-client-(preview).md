@@ -2,7 +2,7 @@
 layout: default
 title: 'Create a Conversational Language Understanding Client Application'
 nav_order: 8.1.12
-parent: 'Enable Resource Providers'
+parent: 'Azure AI Engineer Exercises'
 has_children: false
 module: 'Module 5 - Creating Language Understanding Solutions'
 ---

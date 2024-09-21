@@ -2,7 +2,7 @@
 layout: default
 title: 'Translate Speech'
 nav_order: 8.1.10
-parent: 'Enable Resource Providers'
+parent: 'Azure AI Engineer Exercises'
 has_children: false
 module: 'Module 8 - Translate speech with Azure AI Speech'
 ---

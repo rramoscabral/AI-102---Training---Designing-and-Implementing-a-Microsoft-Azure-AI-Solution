@@ -2,7 +2,7 @@
 layout: default
 title: 'Monitor Azure AI Services'
 nav_order: 8.1.5
-parent: 'Enable Resource Providers'
+parent: 'Azure AI Engineer Exercises'
 has_children: false
 module: 'Module 2 - Developing AI Apps with Azure AI Services'
 ---

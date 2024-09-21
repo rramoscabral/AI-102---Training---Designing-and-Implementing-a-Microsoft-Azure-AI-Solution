@@ -2,7 +2,7 @@
 layout: default
 title: 'Detect and Analyze Faces'
 nav_order: 8.1.20
-parent: 'Enable Resource Providers'
+parent: 'Azure AI Engineer Exercises'
 has_children: false
 module: 'Module 10 - Detecting, Analyzing, and Recognizing Faces'
 ---
