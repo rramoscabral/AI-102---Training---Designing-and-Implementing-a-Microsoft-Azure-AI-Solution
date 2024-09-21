@@ -3,6 +3,7 @@ layout: default
 title: 'Manage Azure AI Services Security'
 #nav_order: 8.1.4
 parent: 'Azure AI Engineer Exercises'
+ancestor: 'Hands-on Labs'
 has_children: false
 ---
 
