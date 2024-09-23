@@ -25,7 +25,7 @@ has_children: false
 
 <!-- Demonstrations -->
 
-**Create an Azure AI services multi-service resource using Azure CLI.**
+- **Create an Azure AI services multi-service resource using Azure CLI.**
 
     ```bash
     resourceGroup="AzureAI-RG"
