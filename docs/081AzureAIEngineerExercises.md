@@ -20,9 +20,9 @@ The oficial **GitHub AI-102 AI Engineer repo** has been archived by the owner on
 
 
 The lab files for course AI-102 (and other AI-related courses) are distributed across multiple repo's:
-- [Lab files for Azure AI Services modules](https://github.com/MicrosoftLearning/mslearn-ai-services)
-- [Lab files for Azure AI Vision modules](https://github.com/MicrosoftLearning/mslearn-ai-vision)
-- [Lab files for Azure AI Language modules](https://github.com/MicrosoftLearning/mslearn-ai-language)
-- [Lab files for Azure AI Document Intelligence modules](https://github.com/MicrosoftLearning/mslearn-ai-document-intelligence)
-- [Lab files for Azure AI Knowledge Mining modules](https://github.com/MicrosoftLearning/mslearn-knowledge-mining)
-- [Develop AI solutions with Azure OpenAI](https://github.com/MicrosoftLearning/mslearn-openai)
+- [Lab for Azure AI Services modules](https://github.com/MicrosoftLearning/mslearn-ai-services)
+- [Lab for Azure AI Vision modules](https://github.com/MicrosoftLearning/mslearn-ai-vision)
+- [Lab for Azure AI Language modules](https://github.com/MicrosoftLearning/mslearn-ai-language)
+- [Lab for Azure AI Document Intelligence modules](https://github.com/MicrosoftLearning/mslearn-ai-document-intelligence)
+- [Lab for Azure AI Knowledge Mining modules](https://github.com/MicrosoftLearning/mslearn-knowledge-mining)
+- [Lab for Develop AI solutions with Azure OpenAI](https://github.com/MicrosoftLearning/mslearn-openai)

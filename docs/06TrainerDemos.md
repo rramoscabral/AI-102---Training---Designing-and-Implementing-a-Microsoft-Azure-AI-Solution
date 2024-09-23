@@ -25,6 +25,21 @@ has_children: false
 
 <!-- Demonstrations -->
 
+**Create an Azure AI services multi-service resource using Azure CLI.**
+
+    ```bash
+    resourceGroup="AzureAI-RG"
+    resourceLocation="westus2"
+    resourceAIServices="AIServicesDemo"
+
+    az group create --name $resourceGroup --location location $resourceLocation
+
+    az cognitiveservices account create --name $resourceAIServices --resource-group $resourceGroup --kind AIServices --sku S0 --location $resourceLocation --yes
+
+    az cognitiveservices account keys list --name $resourceAIServices --resource-group $resourceGroup
+    ```
+
+
 
 <br/>
 

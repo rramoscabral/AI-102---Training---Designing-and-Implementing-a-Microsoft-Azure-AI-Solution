@@ -47,10 +47,10 @@ In this Learning Path, you’ll learn about:
 
 <!-- Labs -->
 
-<!-- 
-| Azure OpenAI Lab |  Exercise | Estimated time | 
+
+| Lab |  Exercise | Estimated time | 
 | --- | --- | --- |
--->
+| [Get Started with Azure AI Services](https://microsoftlearning.github.io/mslearn-ai-services/Instructions/Exercises/01-use-azure-ai-services.html) | - Clone the repository in Visual Studio Code <br> - Provision an Azure AI Services resource <br> - Use a REST Interface <br> - Use an SDK | 30 minutes |
 
 
 <br>
@@ -80,10 +80,12 @@ In this Learning Path, you’ll learn about:
 
 <!-- Labs -->
 
-<!-- 
-| Azure OpenAI Lab |  Exercise | Estimated time | 
+| Lab |  Exercise | Estimated time | 
 | --- | --- | --- |
--->
+|  [Analyze Images with Azure AI Vision](https://microsoftlearning.github.io/mslearn-ai-vision/Instructions/Exercises/01-analyze-images.html) | -Clone the repository for this course <br> - Provision an Azure AI Services resource <br> - Prepare to use the Azure AI Vision SDK <br> - View the images you will analyze <br> - Analyze an image to suggest a caption <br> - Get suggested tags for an image <br> - Detect and locate objects in an image <br> - Detect and locate people in an image <br> - Remove the background or generate a foreground matte of an image | No information |
+| [Read Text in Images](https://microsoftlearning.github.io/mslearn-ai-vision/Instructions/Exercises/05-ocr.html) | - Clone the repository for this course <br> - Provision an Azure AI Services resource <br> - Prepare to use the Azure AI Vision SDK <br> - Use the Azure AI Vision SDK to read text from an image <br> - Use the Azure AI Vision SDK to read handwritten text from an image | No information |
+| [Classify images with an Azure AI Vision custom model](https://microsoftlearning.github.io/mslearn-ai-vision/Instructions/Exercises/02-image-classification.html) | -Clone the repository for this course <br> - Provision Azure resources <br> - Create a custom model training project <br> - Test your custom model | No information |
+
 
 
 <br>
@@ -118,7 +120,7 @@ In this Learning Path, you’ll learn about:
 <!-- Labs -->
 
 <!-- 
-| Azure OpenAI Lab |  Exercise | Estimated time | 
+|  Lab |  Exercise | Estimated time | 
 | --- | --- | --- |
 -->
 
@@ -154,7 +156,7 @@ In this Learning Path, you’ll learn about:
 <!-- Labs -->
 
 <!-- 
-| Azure OpenAI Lab |  Exercise | Estimated time | 
+|  Lab |  Exercise | Estimated time | 
 | --- | --- | --- |
 -->
 
@@ -187,7 +189,7 @@ In this Learning Path, you’ll learn about:
 <!-- Labs -->
 
 <!-- 
-| Azure OpenAI Lab |  Exercise | Estimated time | 
+|  Lab |  Exercise | Estimated time | 
 | --- | --- | --- |
 -->
 
@@ -221,10 +223,10 @@ In this Learning Path, you’ll learn about:
 
 <!-- Labs -->
 
-<!-- 
-| Azure OpenAI Lab |  Exercise | Estimated time | 
-| --- | --- | --- |
--->
+| Lab |  Exercise | Estimated time | 
+| --- | --- | --- | 
+| [Get Started with Azure AI Services](https://microsoftlearning.github.io/mslearn-ai-services/Instructions/Exercises/01-use-azure-ai-services.html) |  - Clone the repository in Visual Studio Code <br> - Provision an Azure AI Services resource <br> - Use a REST Interface <br> - Use an SDK  | 30 minutes |
+
 
 <br>
 
