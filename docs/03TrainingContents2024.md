@@ -206,8 +206,6 @@ In this Learning Path, you’ll learn about:
 - Trained and deployed a custom model.
 - Connected an app to use Document Intelligence APIs.
 
-
-
 <br>
 
 <!-- Module content -->
@@ -223,10 +221,10 @@ In this Learning Path, you’ll learn about:
 
 <!-- Labs -->
 
-| Lab |  Exercise | Estimated time | 
-| --- | --- | --- | 
-| [Get Started with Azure AI Services](https://microsoftlearning.github.io/mslearn-ai-services/Instructions/Exercises/01-use-azure-ai-services.html) |  - Clone the repository in Visual Studio Code <br> - Provision an Azure AI Services resource <br> - Use a REST Interface <br> - Use an SDK  | 30 minutes |
-
+<!-- 
+|  Lab |  Exercise | Estimated time | 
+| --- | --- | --- |
+-->
 
 <br>
 

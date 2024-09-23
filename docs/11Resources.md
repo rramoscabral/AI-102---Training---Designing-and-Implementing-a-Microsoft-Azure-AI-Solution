@@ -52,6 +52,7 @@ No content.
 | [Azure AI Builder documentation](https://learn.microsoft.com/en-us/ai-builder/) | Oficial documentation about Azure AI Builder. | 
 | [Azure AI Services documentation](https://learn.microsoft.com/en-us/azure/ai-services/)  | Oficial documentation about Azure AI services. |
 | [Azure AI Studio documentation](https://learn.microsoft.com/en-us/azure/ai-studio/)  | Oficial documentation about Azure AI Studio. |
+| [Azure Developer CLI (azd)](https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/) | Oficial documentation about Azure Developer CLI (azd)<>. |
 | [Azure Machine Learning documentation](https://learn.microsoft.com/en-us/azure/machine-learning)| Oficial documentation about Azure Machine Learning. | 
 | [Azure OpenAI Service documentation](https://learn.microsoft.com/en-us/azure/ai-services/openai/) | Oficial documentation about Azure OpenAI Service. |
 | [Azure OpenAI Service REST API reference](https://learn.microsoft.com/en-us/azure/ai-services/openai/reference) | Details on the inference REST API endpoints for Azure OpenAI. |
@@ -63,6 +64,7 @@ No content.
 
 ## Ebooks
 
+<!--No content.-->
 
 | Title | Author    | Launch date   | URL   |
 | ---   | ---       | ---           | ---   | 
@@ -78,6 +80,8 @@ No content.
 
 ## Blogs
 
+<!--No content.-->
+
 | Blog | Description | 
 | --- | --- | 
 | [Azure AI services Blog](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/bg-p/Azure-AI-Services-blog) | AI - Azure AI services Blog from Microsoft Community Hub. |
@@ -89,6 +93,8 @@ No content.
 <br/>
 
 ##  Community
+
+<!--No content.-->
 
 | Tech Community | Description | 
 | --- | --- | 
@@ -103,16 +109,13 @@ No content.
 
 ## Newsletter
 
-No content.
+<!--No content.-->
 
 | Newsletter | Description | 
 | --- | --- | 
 | [Azure OpenAI Service](https://azure.microsoft.com/en-us/blog/product/azure-openai-service/) | Azure products blog post filtered by Azure OpenAI Service. |
 | [Microsoft .NET Blog OpenAI](https://devblogs.microsoft.com/dotnet/tag/openai/) | .NET blog post filtered by OpenAI tag. |
 | [Microsoft Developer Blogs](https://devblogs.microsoft.com/) | Get the latest information, insights, announcements, and news from Microsoft. |
-
-
-
 
 
 <br/>
