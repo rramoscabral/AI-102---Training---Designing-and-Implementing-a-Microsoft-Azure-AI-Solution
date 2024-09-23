@@ -28,7 +28,7 @@ has_children: false
 | --- | --- |
 | Introduction to AI and Azure AI services            | - [Responsible AI practices](https://www.microsoft.com/ai/responsible-ai) <br> - [Azure Machine Learning](https://azure.microsoft.com/en-us/products/machine-learning/) <br> - [Azure AI Search](https://azure.microsoft.com/en-us/products/ai-services/ai-search/) <br> - [What is the Azure Developer CLI?](https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/overview) |
 | Get started with Azure AI services                  | - [Azure AI services REST API reference](https://learn.microsoft.com/en-us/azure/ai-services/reference/rest-api-resources) <br>- [Overview of the Azure AI SDKs](https://learn.microsoft.com/en-us/azure/ai-studio/how-to/develop/sdk-overview) | 
-| Using Azure AI Services for enterprise applications | - [Microsoft Artifact Registry](https://mcr.microsoft.com/en-us/) | | 
+| Using Azure AI Services for enterprise applications | - [SQL to Kusto Query Language cheat sheet](https://learn.microsoft.com/en-us/kusto/query/sql-cheat-sheet?view=microsoft-fabric) <br> - [What are Azure AI containers?](https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-container-support) <br> - [Microsoft Artifact Registry](https://mcr.microsoft.com/en-us/) | | 
 
 
 
