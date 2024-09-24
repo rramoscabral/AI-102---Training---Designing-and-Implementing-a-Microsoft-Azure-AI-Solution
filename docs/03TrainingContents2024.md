@@ -110,7 +110,7 @@ In this Learning Path, you’ll learn about:
 | [Translating text](https://learn.microsoft.com/en-us/training/modules/translate-text-with-translator-service/) | - Translate text |
 | [Build a question answering solution](https://learn.microsoft.com/en-us/training/modules/create-question-answer-solution-ai-language/) | - Describe the question answering capabilities of Azure AI Language. <br> - Describe the differences between question answering and conversational language understanding.  <br> - Create a knowledge base. <br> - Implement multi-turn conversation. <br> - Test and publish a knowledge base. <br> - Consume a published knowledge base. <br> - Implement active learning. |
 | [Build a conversational language understanding app](https://learn.microsoft.com/en-us/training/modules/build-language-understanding-model/) | - Provision an Azure AI Language resource <br> - Define intents, entities, and utterances <br> - Use patterns to differentiate similar utterances and use pre-built entity components <br> - Train, test, publish, and review a model <br> - Describe Azure AI Language Understanding features |
-| [Custom classification and named entity extraction](https://learn.microsoft.com/en-us/training/modules/custom-text-classification/) | - Label documents, train and deploy models for custom classification <br> - Understand model performance and see where to improve your model <br> - Use your custom model in an app |
+| [Custom classification](https://learn.microsoft.com/en-us/training/modules/custom-text-classification/) and [named entity extraction](https://learn.microsoft.com/en-us/training/modules/custom-name-entity-recognition/) | - Label documents, train and deploy models for custom classification <br> - Understand model performance and see where to improve your model <br> - Use your custom model in an app |
 | [Speech recognition](https://learn.microsoft.com/en-us/training/modules/create-speech-enabled-apps/), [translation](https://learn.microsoft.com/en-us/training/modules/translate-text-with-translator-service/) and synthesis | - Provision an Azure resource for the Azure AI Speech service <br> - Use the Speech to text API to implement speech recognition  <br> - Use the Text to speech API to implement speech synthesis <br> - Configure audio format and voices <br> - Use Speech Synthesis Markup Language (SSML) |
 
 
@@ -119,10 +119,15 @@ In this Learning Path, you’ll learn about:
 
 <!-- Labs -->
 
-<!-- 
 |  Lab |  Exercise | Estimated time | 
 | --- | --- | --- |
--->
+| [Analyze Text](https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/01-analyze-text.html) | - Provision an Azure AI Language resource <br> - Prepare to develop an app in Visual Studio Code <br> - Configure your application <br> - Add code to detect language <br> - Add code to evaluate sentiment <br> - Add code to identify key phrases <br> - Add code to extract entities <br> - Add code to extract linked entities | No information |
+| [Create a Question Answering solution](https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/02-qna.htm) | - Provision an Azure AI Language resource <br> - Create a question answering project <br> - Add sources to the knowledge base <br> - Edit the knowledge base <br> - Train and test the knowledge base <br> - Deploy the knowledge base <br> - Prepare to develop an app in Visual Studio Code <br> - Configure your application <br> - Add code to the application | No information | 
+| [Create a conversational language understanding app](https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/03-language-understanding.html) | - Provision an Azure AI Language resource <br> - Create a conversational language understanding project <br> - Add entities <br> - Use the model from a client app | No information | 
+| - [Recognize and Synthesize Speech](https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/07-speech.html) | - Provision an Azure AI Speech resource <br> - Prepare to develop an app in Visual Studio Code <br> - Configure your application <br> - Add code to use the Azure AI Speech SDK <br> - Add code to recognize speech <br> - Synthesize speech <br> - Use a different voice <br> - Use Speech Synthesis Markup Language | No information | 
+
+
+
 
 <br>
 

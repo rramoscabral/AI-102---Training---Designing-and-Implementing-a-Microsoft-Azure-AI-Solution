@@ -52,12 +52,12 @@ has_children: false
 
 | Lessons | Notes |
 | --- | --- |
-| Analyzing text                                    | - - |
-| Translating text                                  | - - |
-| Build a question answering solution               | - - |
-| Build a conversational language understanding app | - - |
+| Analyzing text                                    | - [Supported Named Entity Recognition (NER) entity categories and entity types](https://learn.microsoft.com/en-us/azure/ai-services/language-service/named-entity-recognition/concepts/named-entity-categories)  |
+| Translating text                                  | - [Translator 3.0: Translate](https://learn.microsoft.com/azure/ai-services/translator/reference/v3-0-translate#request-parameters) <br> - [How to receive word alignment information](https://learn.microsoft.com/azure/ai-services/translator/word-alignment) <br> - [Add profanity filtering with Translator](https://learn.microsoft.com/azure/ai-services/translator/profanity-filtering) |
+| Build a question answering solution               | - [Enrich your project with active learning](https://learn.microsoft.com/en-us/azure/ai-services/language-service/question-answering/tutorials/active-learning) |
+| Build a conversational language understanding app | - [What is Azure AI Language?](https://learn.microsoft.com/en-us/azure/ai-services/language-service/overview) <br> - [Natural language processing technology](https://learn.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/natural-language-processing) <br> - [Supported prebuilt entity components](https://learn.microsoft.com/en-us/azure/ai-services/language-service/conversational-language-understanding/prebuilt-component-reference)  |
 | Custom classification and named entity extraction | - - |
-| Speech recognition, synthesis, and translation    | - - |
+| Speech recognition, synthesis, and translation    | - [Speech to text REST API](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/rest-speech-to-text) <br> - [Batch synthesis API for text to speech](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/batch-synthesis) <br> - [SpeechSynthesisOutputFormat Enum](https://learn.microsoft.com/en-us/dotnet/api/microsoft.cognitiveservices.speech.speechsynthesisoutputformat) <br> - [Language and voice support for the Speech service](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-support) |
 
 
 
