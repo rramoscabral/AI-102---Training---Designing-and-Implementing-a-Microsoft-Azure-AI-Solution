@@ -149,7 +149,7 @@ In this Learning Path, you’ll learn about:
 
 | Module | Learning Objectives | 
 | --- | --- |
-| [Get started with Azure OpenAI Service](https://learn.microsoft.com/en-us/training/paths/develop-ai-solutions-azure-openai/) | - Describe what generative AI is <br> - Provision a resource and deploy a model <br> - Use Azure AI Studio |
+| [Get started with Azure OpenAI Service](https://learn.microsoft.com/en-us/training/modules/get-started-openai/) | - Describe what generative AI is <br> - Provision a resource and deploy a model <br> - Use Azure AI Studio |
 | [Develop apps with Azure OpenAI Service](https://learn.microsoft.com/en-us/training/modules/build-language-solution-azure-openai/) | - Integrate Azure OpenAI into your app <br> - Use the REST API <br> - Use language specific SDKs | 
 | [Apply prompt engineering with Azure OpenAI Service](https://learn.microsoft.com/en-us/training/modules/apply-prompt-engineering-azure-openai/) | - Understand what prompt engineering is <br> - Understand considerations for different endpoints <br> - Explore different techniques of prompt engineering |
 | [Use your own data with Azure OpenAI Service](https://learn.microsoft.com/en-us/training/modules/responsible-generative-ai/) | - Understand how RAG using your own data works <br> - Use the REST API <br> - Use language specific SDKs |
@@ -160,10 +160,16 @@ In this Learning Path, you’ll learn about:
 
 <!-- Labs -->
 
-<!-- 
-|  Lab |  Exercise | Estimated time | 
+
+| Lab |  Exercise | Estimated time | 
 | --- | --- | --- |
--->
+| [Integrate Azure OpenAI into your app](https://microsoftlearning.github.io/mslearn-openai/Instructions/Exercises/02-natural-language-azure-openai.html) | - Provision an Azure OpenAI resource <br> - Deploy a model <br> - Prepare to develop an app in Visual Studio Code <br> - Configure your application <br> - Add code to use the Azure <br> - OpenAI service <br> - Test your application <br> - Maintain conversation history | 30 minutes |
+| [Utilize prompt engineering in your app](https://microsoftlearning.github.io/mslearn-openai/Instructions/Exercises/03-prompt-engineering.html) | - Provision an Azure <br> -  OpenAI resource <br> - Deploy a model <br> - Explore prompt engineering techniques <br> - Prepare to develop an app in Visual Studio Code <br> - Configure your application <br> - Add code to use the Azure OpenAI service <br> - Run your application | 30 minutes |
+| [Add your data for RAG with Azure OpenAI Service](https://learn.microsoft.com/en-us/training/modules/use-own-data-azure-openai/5-exercise) | -Provision an Azure OpenAI resource <br> - Deploy a model <br> - Observe normal chat behavior without adding your own data <br> - Connect your data in the chat playground <br> - Chat with a model grounded in your data <br> - Connect your app to your own data <br> - Configure your application <br> - Run your application | 30 minutes | 
+
+ 
+
+
 
 
 <br>
