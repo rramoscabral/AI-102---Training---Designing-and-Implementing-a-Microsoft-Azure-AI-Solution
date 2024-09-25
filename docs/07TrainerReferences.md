@@ -83,9 +83,9 @@ has_children: false
 
 | Lessons | Notes |
 | --- | --- |
-| Implementing an Intelligent Search Solution   | - - |
+| Implementing an Intelligent Search Solution   | - [Integrated data chunking and embedding in Azure AI Search](https://learn.microsoft.com/en-us/azure/search/vector-search-integrated-vectorization) - [AI enrichment in Azure AI Search](https://learn.microsoft.com/en-us/azure/search/cognitive-search-concept-intro) <br> - [Tips for AI enrichment in Azure AI Search](https://learn.microsoft.com/en-us/azure/search/cognitive-search-concept-troubleshooting) |
 | Create a custom skill for Azure AI Search     | - - |
-| Creating a Knowledge Store                    | - - |
+| Creating a Knowledge Store                    | - [Define projections in a knowledge store](https://learn.microsoft.com/en-us/azure/search/knowledge-store-projections-examples)  |
 
 
 

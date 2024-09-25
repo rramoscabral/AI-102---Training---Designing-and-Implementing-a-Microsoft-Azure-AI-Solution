@@ -199,10 +199,10 @@ In this Learning Path, you’ll learn about:
 
 <!-- Labs -->
 
-<!-- 
+
 |  Lab |  Exercise | Estimated time | 
 | --- | --- | --- |
--->
+| [Create a Custom Skill for Azure AI Search](https://microsoftlearning.github.io/mslearn-knowledge-mining/Instructions/Exercises/02-search-skills.html) | - Prepare to develop an app in Visual Studio Code <br> - Create Azure resources <br> - Create a search solution <br> - Search the index <br> - Create an Azure Function for a custom skill <br> - Add the custom skill to the search solution <br> - Search the index | No information | 
 
 
 
