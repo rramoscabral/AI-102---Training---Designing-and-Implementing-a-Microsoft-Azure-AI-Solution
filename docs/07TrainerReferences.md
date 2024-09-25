@@ -68,10 +68,10 @@ has_children: false
 
 | Lessons | Notes |
 | --- | --- |
-| Get started with Azure OpenAI Service                  | - - |
-| Develop apps with Azure OpenAI Service                 | - - |
-| Apply prompt engineering with Azure OpenAI Service     | - - |
-| Use your own data with Azure OpenAI Service            | - - |
+| Get started with Azure OpenAI Service                  | - [Azure Status](https://azure.status.microsoft/en-us/status) <br> - [OpenAI Status](https://status.openai.com/) <br> - [Standard deployment model availability](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models#standard-deployment-model-availability) <br> - [Azure OpenAI Service models](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models) <br> - [OPEN AI platform](https://platform.openai.com) |
+| Develop apps with Azure OpenAI Service                 | - [Azure OpenAI Service REST API reference](https://learn.microsoft.com/en-us/azure/ai-services/openai/reference) <br> - [OpenAI text generation models](https://platform.openai.com/docs/guides/text-generation)  |
+| Apply prompt engineering with Azure OpenAI Service     | - [Introduction to prompt engineering](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/prompt-engineering) |
+| Use your own data with Azure OpenAI Service            | - [Azure OpenAI On Your Data](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/use-your-data) <br> - [Azure OpenAI On Your Data API Reference](https://learn.microsoft.com/en-us/azure/ai-services/openai/references/on-your-data) |
 
 
 
