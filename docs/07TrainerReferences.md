@@ -96,7 +96,7 @@ has_children: false
 
 | Lessons | Notes |
 | --- | --- |
-| Use prebuilt Document Intelligence models     | - - |
+| Use prebuilt Document Intelligence models     | - [Document processing models](https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/concept-model-overview) <br> - [Use Document Intelligence models](https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/how-to-guides/use-sdk-rest-api) |
 | Train a custom Document Intelligence model    | - - |
 
 

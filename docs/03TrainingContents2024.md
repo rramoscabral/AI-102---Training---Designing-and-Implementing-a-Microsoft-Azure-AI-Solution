@@ -232,10 +232,12 @@ In this Learning Path, you’ll learn about:
 
 <!-- Labs -->
 
-<!-- 
+
 |  Lab |  Exercise | Estimated time | 
 | --- | --- | --- |
--->
+| [Extract Data from Forms](https://microsoftlearning.github.io/mslearn-ai-document-intelligence/Instructions/Exercises/02-custom-document-intelligence.html) | - Prepare to develop an app in Visual Studio Code <br> - Create a Azure AI Document Intelligence resource <br> - Gather documents for training <br> - Train the model using <br> - Document Intelligence Studio <br> - Test your custom Document Intelligence model | No information | 
+
+
 
 <br>
 
