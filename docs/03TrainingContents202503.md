@@ -1,15 +1,15 @@
 ---
 layout: default
-title: 'Training Contents 2024'
-nav_order: 2
+title: 'Training Contents March 2025'
+nav_order: 1
 has_children: false
 parent: 'Training Contents'
 ---
 
-# Training Contents 2024
+# Training Contents March 2025
 {: .no_toc }
 
-Training content for 2024
+Training content for March 2025
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -72,7 +72,7 @@ In this Learning Path, you’ll learn about:
 | Module | Learning Objectives | 
 | --- | --- | 
 | [Analyze and manipulate images](https://learn.microsoft.com/en-us/training/modules/analyze-images/) | - Understand features and functionality of Image Analysis <br> - Perform Optical Character Recognition (OCR) <br> - Connect an app to Image Analysis APIs | 
-| [Detecting Faces with the Azure AI Vision](https://learn.microsoft.com/en-us/training/modules/detect-analyze-recognize-faces/) | - Understand features, use cases, and responsibility of the Azure AI Vision Face API <br> - Use the Face API in an app
+| [Detecting Faces with the Azure AI Vision](https://learn.microsoft.com/en-us/training/modules/detect-analyze-recognize-faces/) | - Understand features, use cases, and responsibility of the Azure AI Vision Face API <br> - Use the Face API in an app | 
 | [Custom vision models with Azure AI Vision](https://learn.microsoft.com/en-us/training/modules/custom-model-ai-vision-image-classification/) | - Understand use cases of custom Vision models <br> - Label data in Azure ML for both image classification and object detection - <br> - Use a custom vision model in an app
 | [Analyze video](https://learn.microsoft.com/en-us/training/modules/analyze-video/) | - Azure Video Indexer capabilities <br> - Custom Insights <br> - Video Indexer Widgets and API | 
 
