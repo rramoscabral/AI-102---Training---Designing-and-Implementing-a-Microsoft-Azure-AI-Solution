@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 'Training Contents March 2025'
-nav_order: 1
+nav_order: 2
 has_children: false
 parent: 'Training Contents'
 ---
