@@ -117,12 +117,10 @@ Training content for August 2025
 
 - [Translation speech](https://aka.ms/mslearn-translate-speech)
 
-- [Audio enabled generative AI app](https://aka.ms/mslearn-generative-ai-audio)
-
-- 
+- [Audio enabled generative AI app](https://aka.ms/mslearn-generative-ai-audio) 
 
 
-<<br>
+<br>
 
 ## Learning Path 4: Develop computer vision solutions in Azure
 
