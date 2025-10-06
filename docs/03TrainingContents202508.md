@@ -1,15 +1,15 @@
 ---
 layout: default
-title: 'Training Contents March 2025'
+title: 'Training Contents August 2025'
 nav_order: 1
 has_children: false
 parent: 'Training Contents'
 ---
 
-# Training Contents March 2025
+# Training Contents August 2025
 {: .no_toc }
 
-Training content for March 2025
+Training content for August 2025
 
 ## Table of contents
 {: .no_toc .text-delta }
