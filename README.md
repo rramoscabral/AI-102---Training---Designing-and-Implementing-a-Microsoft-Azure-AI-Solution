@@ -11,8 +11,7 @@ Companion Material and Resources for Class Delivery by [**Ricardo Cabral**](http
 
 ## Description
 
-This course provides students with the fundamental knowledge and skillsto build AI infused applications that leverage Azure AI Services, Azure AI Search, and Azure OpenAI.
-
+This course provides students with the fundamental knowledge and skills to create custom agents in Copilot Studio.
 ---
 
 <!-- followme -->
